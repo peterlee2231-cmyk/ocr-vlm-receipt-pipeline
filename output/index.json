@@ -1,0 +1,56 @@
+[
+  {
+    "merchant": "오로라카페 강남점",
+    "date": "2026-06-10",
+    "total": 10000,
+    "category": "식비",
+    "items": [
+      {
+        "name": "아메리카노",
+        "amount": 4500
+      },
+      {
+        "name": "카페라떼",
+        "amount": 5500
+      }
+    ],
+    "receipt_key": "오로라카페 강남점|2026-06-10|10000",
+    "file": "receipt-cafe-01-rescan"
+  },
+  {
+    "merchant": "오로라호텔 서울",
+    "date": "2026-06-12",
+    "total": 187000,
+    "category": "숙박비",
+    "items": [
+      {
+        "name": "객실료",
+        "amount": 150000
+      },
+      {
+        "name": "조식",
+        "amount": 20000
+      },
+      {
+        "name": "세금",
+        "amount": 17000
+      }
+    ],
+    "receipt_key": "오로라호텔 서울|2026-06-12|187000",
+    "file": "receipt-hotel-01"
+  },
+  {
+    "merchant": "모범택시",
+    "date": "2026-06-11",
+    "total": 18700,
+    "category": "교통비",
+    "items": [
+      {
+        "name": "이동요금",
+        "amount": 18700
+      }
+    ],
+    "receipt_key": "모범택시|2026-06-11|18700",
+    "file": "receipt-taxi-01"
+  }
+]
